@@ -9,9 +9,11 @@
 
 
 # Attori:
+
 - Cliente (colui che potrà acquistare articoli);
-- Fumettista indipedente (utente registrato dall'admin per l'inserimento di fumetti);
-- Admin (Proprietario del sito che carica i prodotti del catalogo e inserisce i fumettisti indipendenti). 
+- Fumettista indipendente (utente registrato dall'admin per l'inserimento di fumetti);
+- Admin (Proprietario del sito che carica i prodotti del catalogo e inserisce i fumettisti indipendenti).  
+
 
 
 # Descrizione del progetto:
