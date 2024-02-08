@@ -1,20 +1,20 @@
 # Progetto-IDS
 
-#Nomi dei componenti:
+# Nomi dei componenti:
 Capasso Antonio 0124002624
 Cristiano Giuseppe 0124002534
 Lettieri Raffaele 0124002631
 
-#Titolo progetto: Games & Manga shop
+# Titolo progetto: Games & Manga shop
 
 
-#Attori:
+# Attori:
 -Cliente (colui che potrà acquistare articoli);
 -Fumettista indipedente (utente registrato dall'admin per l'inserimento di fumetti);
 -Admin (Proprietario del sito che carica i prodotti del catalogo e inserisce i fumettisti indipendenti). 
 
 
-#Descrizione del progetto:
+# Descrizione del progetto:
 
 Il progetto si concentra sulla progettazione e lo sviluppo di un sistema software
 completo per la gestione di un e-commerce specializzato nella vendita di articoli
@@ -24,7 +24,7 @@ prodotti presenti nel catalogo, inclusa la gestione del catalogo, l'elaborazione
 gestione degli utenti e la gestione delle spedizioni. L'obiettivo è creare
 un'esperienza di shopping online intuitiva e sicura per gli appassionati di videogiochi e manga.
 
-#Obiettivi del progetto: 
+# Obiettivi del progetto: 
 
 •	Creare un'interfaccia utente, accessibile tramite web, responsive e user-friendly che consenta agli utenti di cercare e acquistare i prodotti presenti nel catalogo.
 •	Implementare una gestione avanzata del catalogo con categorie e immagini.
@@ -32,7 +32,7 @@ un'esperienza di shopping online intuitiva e sicura per gli appassionati di vide
 •	Implementare un sistema di gestione degli ordini che includa la verifica dell'inventario e la generazione di conferme di ordine.
 •	Integrare metodi di pagamento online sicuri e gestire transazioni finanziarie.
 
-#Requisiti tecnici: 
+# Requisiti tecnici: 
 
 •	Utilizzare tecnologie web per sviluppare l'interfaccia utente.
 •	Creare un database per archiviare informazioni sui prodotti, gli ordini e gli utenti.
@@ -41,7 +41,7 @@ un'esperienza di shopping online intuitiva e sicura per gli appassionati di vide
 •	Garantire la compatibilità con i principali browser e dispositivi mobili.
 
 
-#File presenti:
+# File presenti:
 -Cartella progetto: Codice sorgente del progetto (incentrato principalmente per l'interfaccia cliente con le sue operazioni);
 -Interfaccia Admin & Fumettista: Rappresenta la parte grafica dell'interfaccia dell'Admin e del fumettista;
 -Rad;
